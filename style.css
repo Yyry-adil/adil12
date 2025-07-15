@@ -246,3 +246,10 @@ color: #828282;
 
 
 }
+
+
+@media(max-width:500px){
+    .header__title{
+        font-size: 30px;
+    }
+}
